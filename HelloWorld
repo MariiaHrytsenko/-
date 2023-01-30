@@ -1,2 +1,5 @@
 cout << "Hello world";
 cout << "How are you?";
+
+cout << "Witaj świecie";
+cout << "Jak się masz?";
