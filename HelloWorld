@@ -4,4 +4,4 @@ cout << "What are you going to do on Tuesday?";
 
 cout << "Witaj świecie";
 cout << "Jak sie masz?";
-cout << "Co będziesz robić we czwartek?";
+cout << "Co będziesz robić we wtorek?";
